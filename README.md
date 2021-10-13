@@ -1,7 +1,8 @@
 # Front End Style Guide
 
 Style guide for javascript projects. Adapted from the Airbnb style guides.
-## Table of contents
+
+## [Table of contents](#table-of-contents)
 
 ## JavaScript
 
